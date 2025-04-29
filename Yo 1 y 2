@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Gimena Nails</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      background-color: #EDA9D0;
+      color: #333;
+      text-align: center;
+    }
+    header, footer {
+      background-color: #E05AED;
+      color: white;
+      padding: 15px;
+    }
+    .btn {
+      background: #9516F0;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 20px;
+      text-decoration: none;
+      display: inline-block;
+      margin: 20px auto;
+    }
+    .btn:hover {
+      background: #F0461F;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Gimena Nails</h1>
+    <p>Manicura, pedicura y más</p>
+  </header>
+
+  <a class="btn" href="https://wa.me/5491123456789" target="_blank">Reserva tu cita</a>
+
+  <footer>
+    <p>&copy; 2025 Gimena Nails</p>
+  </footer>
+</body>
+</html>

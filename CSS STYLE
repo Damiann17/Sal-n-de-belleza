@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salón de Belleza</title>
+    <link rel="shortcut icon" href="icono-belleza.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Enlace a Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Poetsen+One&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1>SALÓN ELEGANCIA</h1>
+
+    <header>
+        <nav>
+            <ul>
+                <li><a href="inicio.html">Presentación</a></li>
+                <li><a href="servicios.html">Servicios</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Más que belleza</h2>
+        <p>Este sitio web está dedicado a nuestro salón, donde la elegancia, el cuidado personal y el bienestar son lo más importante.</p>
+        <img src="./salon1.jpg" width="25%" height="15%" alt="imagen del salón de belleza"> 
+        <img src="./estilista.jpg" width="15%" height="15%" alt="imagen de estilista">
+    </section>
+
+    <section>
+        <ul>
+            <li>Reservá tu turno online o visitanos directamente en nuestro local</li>
+            <li>Obtené beneficios exclusivos registrándote en nuestra web</li>
+        </ul>
+    </section>
+
+    <section>
+        <h3>Otros servicios</h3>
+        <img src="./manicura.jpg" width="20%" height="20%" alt="imagen de manicura"> 
+        <h3><a href="https://www.google.com/search?q=servicios+de+sal%C3%B3n+de+belleza">Más información</a></h3>
+    </section>
+</body>
+</html>

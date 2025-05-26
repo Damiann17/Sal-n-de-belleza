@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Servicios</title>
+    <link rel="shortcut icon" href="belleza.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>SERVICIOS</h1>
+        <p>Para ofrecer un servicio de calidad en nuestro salón de belleza, contamos con: cortes de cabello, peinados, manicura, pedicura, tratamientos faciales, entre otros.</p>
+        <li><a href="index.html">Volver a inicio</a></li>
+    </header>
+</body>
+</html>

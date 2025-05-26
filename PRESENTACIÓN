@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Presentación</title>
+    <link rel="shortcut icon" href="belleza.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Presentación</h1>
+        <p>Esta página web se trata sobre un salón de belleza llamado "Estilo y Belleza", el cual es gestionado por Luna Damián, Veliz Daniela y Cajal Luisana.</p>
+        <li><a href="index.html">Volver a inicio</a></li>
+    </header>
+</body>
+</html>

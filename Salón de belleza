@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Estilo y Belleza</title>
+    <link rel="shortcut icon" href="belleza.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Poetsen+One&display=swap" rel="stylesheet">
+    <!--Luna hizo el código inicial de la página-->
+    <!--Damian hizo el diseño visual-->
+    <!--Veliz Daniela creó la paleta de colores-->
+    <!--Luna, Damian, Veliz Daniela y Cajal Luisana hicieron el logo y el nombre-->
+</head>
+<body>
+    <h1>ESTILO Y BELLEZA</h1>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="inicio.html">Presentación</a></li>
+                <li><a href="servicios.html">Servicios</a></li>
+                <li><a href="nueva_pagina.html">Siguiente página</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Más que un salón de belleza</h2>
+        <p>Este sitio web está dedicado a nuestro salón de belleza, donde ofrecemos una experiencia única para realzar tu estilo y bienestar.</p>
+        <img src="./salon1.png" width="25%" height="15%" alt="imagen del salón de belleza"> 
+        <img src="./belleza.jpg" width="15%" height="15%" alt="imagen de productos de belleza">
+    </section>
+
+    <section>
+        <p>Reservá tu turno online o visitanos en nuestro salón más cercano.</p>
+        <p>Disfrutá de promociones exclusivas y descuentos especiales registrándote.</p>
+    </section>
+
+    <section>
+        <h3>Otros servicios</h3>
+        <img src="./maquillaje.jpg" width="20%" height="20%" alt="imagen de maquillaje"> 
+        <h3><a href="https://www.instagram.com/explore/tags/maquillaje/">Más inspiración</a></h3>
+    </section>
+</body>
+</html>
